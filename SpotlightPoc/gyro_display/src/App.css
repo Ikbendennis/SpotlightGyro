@@ -1,0 +1,182 @@
+.App {
+	background-color: lightblue;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("./img/bg.png");
+	background-size: cover;
+}
+
+.base {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+}
+
+.hole {
+  position: absolute;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: gray;
+}
+
+#hole {
+  position: absolute;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: rgba(255, 255, 255, 75%);
+	box-shadow: 0px 0px 10px 5px orange;
+}
+
+#person img{
+	height: 100px;
+}
+
+.window{
+	position: absolute;
+	width: 9%;
+	height: 11.5%;
+	opacity: 0.01;
+	background-color: rgba(255, 255, 255,50%);
+}
+
+#window0{
+	top: 54.5%;
+	left: 20%;	
+}
+
+#window1{
+	top: 54.5%;
+	left: 31%;
+	width: 9.5%;
+}
+
+#window2{
+	top: 53.5%;
+	left: 42.5%;
+	width: 10.5%
+}
+
+#window3{
+	top: 52.5%;
+	left: 54.5%;
+	width: 11%
+}
+
+#window4{
+	top: 52%;
+	left: 67.5%;
+	width: 11.5%
+}
+
+#window5{
+	top: 51%;
+	left: 82.5%;
+	width: 11%;
+}
+
+#window6{
+	
+	top: 72%;
+	left: 20%;
+}
+
+#window7{
+	
+	top: 71%;
+	left: 30.5%;
+	width: 9.5%;
+}
+
+#window8{
+	
+	top: 70%;
+	left: 42%;
+	width: 10.5%
+}
+
+#window9{
+	
+	top: 69.5%;
+	left: 55%;
+	width: 11%;
+}
+
+
+#window10{
+	
+	top: 69%;
+	left: 67.5%;
+	width: 12%;
+}
+
+#window11{
+	top: 68%;
+	left: 82.5%;
+	width: 11.5%;
+}
+
+#window12{
+	top: 72%;
+	left: 82.5%;
+}
+
+#person{
+	position: absolute;
+}
+
+.position0{
+	top: 58%;
+	left: 20%;
+}
+
+.position1{
+	top: 56.5%;
+	left: 31%;
+}
+
+.position2{
+	top: 56%;
+	left: 43%;
+}
+
+.position3{
+	top: 54%;
+	left: 55.5%;
+}
+
+.position4{
+	top:54%;
+	left: 68.5%;
+}
+
+.position5{
+	top: 53.5%;
+	left: 83.5%;
+}
+
+.position6{
+	top: 74%;
+	left: 20%;
+}
+.position7{
+	top: 73.5%;
+	left: 30.5%;
+}
+.position8{
+	top: 72.5%;
+	left: 42.5%;
+}
+.position9{
+	top: 72%;
+	left: 56%;
+}
+.position10{
+	top: 71.5%;
+	left: 69%;
+}
+.position11{
+	top: 70.5%;
+	left: 84%;
+}
